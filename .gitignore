@@ -1,0 +1,9 @@
+**/build/
+.vscode/
+vgcore.*
+*.o
+*.a
+*.so
+info
+*.gcov
+*.gcda
